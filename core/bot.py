@@ -21,7 +21,7 @@ logging.basicConfig(
 class Bot(commands.AutoShardedBot):
     def __init__(self, *args , **kwargs) -> None:
         super().__init__(sync_commands=True, shard_count=1, case_insensitive=True,command_prefix=".", intents=discord.Intents.all())
-        owner_ids = [1033579545254711336,289100850285117460]
+        owner_ids = [1033579545254711336]
         self.owner_ids = owner_ids
         self.remove_command('help')
         self._BotBase__cogs = commands.core._CaseInsensitiveDict()
