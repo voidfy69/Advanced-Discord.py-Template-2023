@@ -1,4 +1,4 @@
-# BreadcrumbsAdvanced-Discord.py-Template-2023
+# Advanced-Discord.py-Template-2023
 
 [License](https://winkleop.me)
 [Discord](https://discord.gg/winklebot)
