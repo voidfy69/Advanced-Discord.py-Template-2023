@@ -12,6 +12,8 @@ An Advanced Way of Making discord.py bot.
 - [Installation](#installation)
 
 
+## Note: This template is not made for replit.
+
 ## Installation
 
 1. **Clone the repository:**
