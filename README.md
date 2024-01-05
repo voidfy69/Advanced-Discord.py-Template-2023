@@ -1,5 +1,8 @@
 # Advanced-Discord.py-Template-2023
 
+# Report issues at: [Here](https://github.com/UjjwalxD/Advanced-Discord.py-Template-2023/issues)
+
+
 [License](https://winkleop.me)
 [Discord](https://discord.gg/winklebot)
 
