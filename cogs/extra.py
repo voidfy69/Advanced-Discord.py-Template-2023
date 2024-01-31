@@ -1027,7 +1027,8 @@ async def serverinfo(self, ctx: commands.Context):
     
 
 
-
+async def setup(bot):
+ await bot.add_cog(Utility(bot))
 
 
 
